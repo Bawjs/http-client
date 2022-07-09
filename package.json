@@ -1,4 +1,19 @@
 {
+  "name": "@bawjs/http-client",
+  "author": {
+    "name": "Bawjs contributors"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "http-client",
+    "ajax",
+    "request",
+    "bawjs"
+  ],
+  "license": "MIT",
+  "description": "An HTTP client for Bawjs Framework",
+  "version": "0.0.1-alpha",
   "devDependencies": {
     "typescript": "^4.7.4"
   }
